@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .ipython/profile_default/history.sqlite
+.bashrc
+.config
+.profile
