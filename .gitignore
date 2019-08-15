@@ -3,3 +3,5 @@
 .bashrc
 .config
 .profile
+.local/**
+.bash_logout
